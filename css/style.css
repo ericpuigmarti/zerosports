@@ -1,0 +1,9 @@
+.logo
+{
+ position: relative;
+ margin: 0 auto;
+}
+.logo img {
+	max-width: 200px;
+	margin: 6em;
+}
