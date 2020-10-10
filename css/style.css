@@ -20,10 +20,15 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
 
 body {
 	/*background-color: #f5efe1;*/
-  	background-color: #293858 !important;
   	color: #EFEECB !important;
+    background-image: url('../img/cover.jpg'); 
+    background-size: cover; 
 }
 
+#zero-logo{
+  max-width: 200px;
+  margin: 0 auto;
+}
 .w-col{padding-left:0;padding-right:0}
 .col-reset {position: relative;float: left;width: 100%;min-height: 1px;padding-left: 10px;padding-right: 10px;}
 .w-col-1{width:8.33333333%}
