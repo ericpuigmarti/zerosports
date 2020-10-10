@@ -22,7 +22,8 @@ body {
 	/*background-color: #f5efe1;*/
   	color: #EFEECB !important;
     background-image: url('../img/cover.jpg'); 
-    background-size: cover; 
+    background-size: cover;
+    background-position: center; 
 }
 
 #zero-logo{
