@@ -220,7 +220,7 @@ body {
 
 @media screen and (max-width: 720px) { 
   /* CSS Code for when the screen size is 480px Screen size */
-  .text-block {font-size: 32px;width:100%;}
+  .text-block {font-size: 32px;margin-top: 2em;}
 
 @media screen and (max-width: 480px) { 
   /* CSS Code for when the screen size is 480px Screen size */
