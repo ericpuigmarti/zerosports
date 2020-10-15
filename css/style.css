@@ -29,6 +29,7 @@ body {
 #zero-logo{
   max-width: 200px;
   margin: 0 auto;
+  display: block;
 }
 .w-col{padding-left:0;padding-right:0}
 .col-reset {position: relative;float: left;width: 100%;min-height: 1px;padding-left: 10px;padding-right: 10px;}
@@ -53,7 +54,7 @@ body {
 .columns {margin-top: 0em;margin-bottom: 4em;margin-left: 50px;padding-top: 0em;}
 
 .text-block {
-  width: 75%;
+  /*width: 75%;*/
   height: auto;
   margin-top: 6em;
   margin-left: 50px;
